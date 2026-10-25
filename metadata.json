@@ -1,0 +1,8 @@
+{
+  "name": "The Quill & Folio | Department of English Language & Literature",
+  "description": "Premier academic broadsheet, literary review, and student activities portal embodying scholarly rigor, archival essays, and departmental gazette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
